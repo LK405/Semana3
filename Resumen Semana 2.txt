@@ -1,0 +1,32 @@
+Unidad II
+
+1.	Conceptos básicos para iniciar a programar
+Independientemente de que lenguaje de programación se utilice tendremos que relacionarnos con términos como variables y constantes. En las variables y constantes guardaremos valores tipo texto, numérico u otros símbolos para la ejecución de nuestros programas.
+Las variables: como su nombre lo indica su valor ira cambiando con forme se ejecute el programa. Y las constantes mantendrán un mismo valor durante la ejecución de este.
+
+En la programación estos conceptos nos servirán para darle forma al programa fuera de ella hay ejemplos tal como el valor del dólar si deseamos hacer un intercambio de quetzales a otras monedas y viceversa y también una constante seria nuestro número (CUI) de nuestro DPI. 
+
+2.	Tipos de datos y operadores
+
+El tipo de datos y operadores cambiara según el lenguaje de programación que se utilice, En la mayoría podremos utilizar los números Enteros los números Naturales y Relacionales por supuesto cada uno con una cantidad finita por ejemplo que puede ir desde -253 hasta 253  también se pueden utilizar datos lógicos (V, F) en cuanto a texto podremos utilizar caracteres o cadenas de caracteres las cuales quedara a conveniencia de nosotros seleccionar el adecuado.
+
+Para realizar las operaciones básicas como suma, resta, multiplicación, división y modulo utilizaremos los símbolos usualmente conocidos y a su vez también podemos utilizar las diversas operaciones comparativas (<, >, <=, >=, == ¡=) 
+
+En la programación estos conceptos son utilizados desde que se piden los respectivos datos al usuario hasta la estructura básica de cada fragmento de código que necesite realizar una operación. Fuera de la programación hacemos uso por ejemplo de los operadores lógicos de comparación en cuanto al precio de algún producto o evaluando la calidad de cada uno según nuestro criterio. 
+
+3.	Estructuras de Control Condicionales
+Como su nombre lo indica evaluaremos condiciones las cuales dependiendo de un resultado (V, F) se podrá darle una instrucción para ello utilizamos;
+If: el cual evalúa si una condición dada se cumple de ser asi muestra o ejecuta una acción
+If else: aquí ya tiene un proceso en dado caso algo se cumpla o no 
+If , else if, else: con esta instrucción lograremos dar más de una condición en caso de que lo necesitemos:
+
+Switch case: al igual que el if evalúa condiciones es ideal cuando conocemos el numero exacto de casos a evaluar para ello es ideal esta estructura.
+Dentro de la programación con estas estructuras iremos dándole solución y evaluando a la vez cada posible caso que se nos presente. Fuera de la programación podemos ver cómo hacemos algo similar cuando pasamos por un semáforo y vamos en auto ya que si está en verde podemos pasar, si está en rojo debemos esperar, si esta en amarillo esperaremos a que pase a verde para pasar o a que pase a rojo para esperar.
+
+
+4.	Estructuras de control de bucles
+Cuando parte del código se repetirá en diversas oraciones podemos hacer uso de los bucles ya que este se repetirá n cantidad de veces evitando escribir más código innecesario. Para ello tenemos 2 opciones.
+For: se ejecutara n cantidad de veces.
+While: se ejecutar mientras una condición se cumpla y cuando ya no sea así se detendrá esto por si no tenemos claro la cantidad de veces que necesitamos repetir el código.
+
+En la programación podemos usarlo cuando necesitamos pedir datos por ejemplo de alumnos para esto es ideal for si conocemos la cantidad de alumnos que vamos a ingresar. Fuera de la programación se ve cuando se va al trabajo y se busca un autobús/taxi al cual ingresamos damos la dirección, llegamos, realizamos el pago y se repite cuando regresamos a casa.
