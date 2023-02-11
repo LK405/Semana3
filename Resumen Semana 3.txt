@@ -1,0 +1,14 @@
+Unidad III
+  1  Controlador de versiones 
+Con esta herramienta podemos trabajar sobre un proyecto e ir realizando cambios conforme se valla construyendo si temor a que alguna modificación por nuestra parte haga que deje de funcionar alguna parte del código. Además es súper útil para cuando hay más de 1 desarrollador trabajando sobre un proyecto. Ya que podemos ir viendo los cambios que se van haciendo y quien realizo dicho cambio. 
+En programación por ejemplo se puede utilizar cuando haya un proyecto en el que este dividido por módulos y uno a más desarrolladores se les asigne un módulo. Fuera de la programación se ve esto por ejemplo en Wikipedia una persona desarrolla un tema luego otras se unen completando la información y se van haciendo revisiones para dar la información mas fiable.
+2 GIT 
+Git es una herramienta muy popular y gratuita para el control de versiones realizara un seguimiento de todos los cambios que hagamos en nuestro proyecto
+3 GITHUB
+Github almacena nuestros proyectos y además tenemos la opción de colocarlos como públicos o privados si lo colocamos públicos otras personas  pueden colaborar en dicho proyecto. 
+4   Instrucciones básicas de GIT
+
+Git status: nos muestra el estado de la rama que hemos creado.
+Git add: lo usamos cuando hemos hecho cambios los cuales subiremos en el próximo commit  
+Git commit: Sirve para guardar  los cambios con una descripción del código si es   
+Git push: con este comando enviaremos los cambios hechos a nuestro servidor en este caso github este enviara los commits a nuestro repositorio 
